@@ -1,0 +1,7 @@
+pylint
+flake8
+mypy
+
+pytest
+pytest-coverage
+pytest-timeout
