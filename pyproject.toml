@@ -5,3 +5,6 @@ honor_noqa = true
 
 [tool.pylint.format]
 max-line-length = 120
+
+[tool.pylint.string]
+check-quote-consistency = "yes"
